@@ -47,9 +47,9 @@ BostaTask is a mobile application that allows users to browse albums and view ph
 ## Screenshots
 
 <div>
-<img src="https://github.com/momenrollins/Bosta-Task/assets/57583664/bb47ac5c-b7ff-4ac7-86fd-dc34829e1f58" width=300>
-<img src="https://github.com/momenrollins/Bosta-Task/assets/57583664/95068971-d321-4cf2-8462-62c681e11e78" width=300>
-<img src="https://github.com/momenrollins/Bosta-Task/assets/57583664/7648f0b6-007b-4d63-b432-3085c6cf8b46" width=300>
+<img src="https://github.com/momenrollins/Bosta-Task/assets/57583664/bb47ac5c-b7ff-4ac7-86fd-dc34829e1f58" width=200>
+<img src="https://github.com/momenrollins/Bosta-Task/assets/57583664/95068971-d321-4cf2-8462-62c681e11e78" width=200>
+<img src="https://github.com/momenrollins/Bosta-Task/assets/57583664/7648f0b6-007b-4d63-b432-3085c6cf8b46" width=200>
 </div>
 
 ## Contact
